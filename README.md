@@ -45,8 +45,8 @@ This project gives a simple starting point for measuring that.
 Requirements: Python 3.10+.
 
 ```bash
-git clone https://github.com/timtimov2023/878703.git
-cd 878703
+git clone https://github.com/timtimov2023/local-business-lead-tracker.git
+cd local-business-lead-tracker
 python src/lead_tracker.py data/sample_leads.csv
 ```
 
